@@ -188,7 +188,7 @@ jobs:
 <div align="center">
 <h3>🌸 LARA-MD Developer Team 👤</h3>
 
-| SADEESHA 👤              | VIHANGA 👤              | SADEEPA 👤            |
+| SADEESHA 👤              | VIHANGA 👤              | wishwajith 👤            |
 |---------------------|---------------------|---------------------|
 [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/) |
 | DEVELOPER & FOUNDER | MODULE CREATE | BUG TESTER |
